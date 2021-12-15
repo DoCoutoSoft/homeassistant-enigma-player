@@ -7,7 +7,7 @@ https://home-assistant.io/components/enigma/
 #
 # For more details,
 # please refer to github at
-# https://github.com/cinzas/homeassistant-enigma-player
+# https://github.com/DoCoutoSoft/homeassistant-enigma-player
 #
 #
 # imports and dependencies
